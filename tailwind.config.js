@@ -19,7 +19,7 @@ module.exports = {
     },
     backgroundImage: {
       hero: 'url(/assets/hero/bg.jpg)',
-      grid: 'url(/assets/grid/.png)',
+      grid: 'url(/assets/grid.png)',
     },
     extend: {
       colors:{
